@@ -1,0 +1,5 @@
+1. Ensure compatibility for different photo ratios
+2. Quality-check uploaded photos
+3. Add print shop
+4. Bay Ridge photos
+5. Add footer
